@@ -59,8 +59,7 @@ function FindDoctor() {
         </div>
 
         <section className="page-section">
-
-          <h1>Find Doctor</h1>
+          <h1>Find Doctor Page</h1>
 
           <div className="search-card">
 
